@@ -1,0 +1,11 @@
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\bin\Debug\ss alma.exe.config
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\bin\Debug\ss alma.exe
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\bin\Debug\ss alma.pdb
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss alma.csproj.AssemblyReference.cache
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss_alma.Form1.resources
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss_alma.Properties.Resources.resources
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss alma.csproj.GenerateResource.cache
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss alma.csproj.CoreCompileInputs.cache
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss alma.exe
+C:\Users\VOLKAN\source\repos\ss alma\ss alma\obj\Debug\ss alma.pdb
